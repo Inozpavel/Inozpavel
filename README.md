@@ -1,6 +1,7 @@
 ## 👋 Welcome ![](https://komarev.com/ghpvc/?username=inozpavel)
 
-Hello random user ! Welcome to my Github profile. Here, you can find my personal projects :)
+Hello random user! Welcome to my Github profile. Here, you can find my personal projects :)
+
 ## ✌ About me
 
 I'm a software engineer focusing on web applications with microservice architecture
