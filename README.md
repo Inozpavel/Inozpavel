@@ -1,10 +1,11 @@
 ## 👋 Welcome ![](https://komarev.com/ghpvc/?username=inozpavel)
 
-Proficient: ASP.NET Core, C#
-
+Hello random user ! Welcome to my Github profile. Here, you can find my personal projects :)
 ## ✌ About me
 
 I'm a software engineer focusing on web applications with microservice architecture
+
+Proficient: ASP.NET Core, C#
 
 [comment]: <> (- 🔭 I’m currently working on ...)
 - 🌱 I’m currently learning C#
