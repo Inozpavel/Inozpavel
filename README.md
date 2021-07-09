@@ -1,4 +1,4 @@
-## 👋 Welcome ![](https://komarev.com/ghpvc/?username=inozpavel)
+## 👋 Welcome ![Profile views](https://komarev.com/ghpvc/?username=inozpavel)
 
 Hello random user! Welcome to my Github profile. Here, you can find my personal projects :)
 
