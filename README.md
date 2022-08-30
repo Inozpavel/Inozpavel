@@ -23,18 +23,20 @@ Proficient: ASP.NET Core, C#
 
 [comment]: <> (- ⚡ Fun fact: ...)
 
+### Badges
+
+![Code wars](https://www.codewars.com/users/Inozpavel/badges/large)
+
 ### ⚙️ GitHub Analytics
 
-[![Inozpavel's GitHub stats](https://github-readme-stats.vercel.app/api?username=inozpavel&count_private=true&show_icons=true&hide=contribs&title_color=2F7FEC&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+<img align="left" alt="GitHubStats" src="https://github-readme-stats.vercel.app/api?username=inozpavel&count_private=true&show_icons=true&hide=contribs&title_color=2F7FEC&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+<img align="right" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inozpavel&count_private=true&langs_count=8&layout=compact&title_color=2F7FEC&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&theme=cobalt"/>
+</p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inozpavel&count_private=true&langs_count=8&layout=compact&title_color=2F7FEC&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&theme=cobalt)]((https://github.com/anuraghazra/github-readme-stats))
 
 [comment]: <> (### Languages and tools)
 
 [comment]: <> ( ![C#]&#40;https://img.shields.io/badge/-ASP_NET_Core-090909>&#41;)
 
 [comment]: <> ( ![C++]&#40;https://img.shields.io/badge/-C++-090909>&#41;)
-
-### Badges
-
-![Code wars](https://www.codewars.com/users/Inozpavel/badges/large)
