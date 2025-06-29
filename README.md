@@ -32,7 +32,7 @@ Proficient: ASP.NET Core, C#
 <p align="left">
 <a href="https://github.com/Inozpavel">
 <img height="180em" width="400em" align="left" alt="GitHubStats" src="https://github-readme-stats.vercel.app/api?username=inozpavel&count_private=true&show_icons=true&title_color=2F7FEC&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
-<img height="180em" width="350em" align="right" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inozpavel&count_private=true&langs_count=8&layout=compact&title_color=2F7FEC&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&theme=cobalt&hide=javascript,html,css)"/>
+<img height="180em" width="350em" align="right" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inozpavel&count_private=true&langs_count=8&layout=compact&title_color=2F7FEC&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&theme=cobalt&hide=css,javascript,html)"/>
 </a>
 </p>
 
