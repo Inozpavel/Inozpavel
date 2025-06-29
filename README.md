@@ -7,13 +7,13 @@ Hello random user! Welcome to my Github profile. Here, you can find my personal 
 
 I'm a software engineer focusing on web applications with microservice architecture
 
-Proficient: ASP.NET Core, C#
+Proficient: Rust, C#(ASP.NET Core)
 
 [comment]: <> (- 🔭 I’m currently working on ...)
 
-- 🌱 I’m currently learning C#
-- 👯 I’m looking to collaborate on C#
-- 🤔 I’m looking for help with k8s
+[comment]: <> (- 🌱 I’m currently learning C#)
+[comment]: <> (- 👯 I’m looking to collaborate on C#)
+[comment]: <> (- 🤔 I’m looking for help with k8s)
 
 [comment]: <> (- 💬 Ask me about ...)
 
